@@ -39,7 +39,8 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 ## Conclusions
 
-
+1. seborrheic keratosis ( 77 samples) has least samples in dataset.
+2. pigmented benign keratosis(462 samples) has highet samples in dataset.
 
 
 ## Technologies Used
