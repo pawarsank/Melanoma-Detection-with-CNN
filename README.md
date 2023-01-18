@@ -27,7 +27,9 @@ Nevus,
 Pigmented benign keratosis,
 Seborrheic keratosis,
 Squamous cell carcinoma,
-Vascular lesion
+Vascular lesion.
+
+
 Build a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
 ### Business Requirements-
